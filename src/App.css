@@ -23,6 +23,11 @@
   color: #61dafb;
 }
 
+.Export-link {
+  color: #0a718d;
+  text-decoration: underline;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
